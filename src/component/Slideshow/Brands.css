@@ -1,0 +1,63 @@
+
+
+.brands-container {
+  padding: 50px 5%;
+  background: #fff;
+    margin-left: 50px;
+    
+    margin-right: 50px;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 40px;
+  
+}
+.p{
+  font-size: 38px;
+  font-weight: bold;
+  color: #333;
+  margin-right: 1080px;
+
+}
+
+.accent-bar {
+  width: 45px;
+  height: 4px;
+  padding-left: 30px;
+  background-color: #e31e24; /* Red color from your logo */
+}
+
+.slider {
+  height: 200px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.slide-track {
+  display: flex;
+  width: calc(200px * 20); /* 200px per logo * (10 logos * 2) */
+  animation: scroll 3s linear infinite;
+}
+
+.slide-item {
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slide-item img {
+  max-width: 140px;
+  max-height: 70px;
+  object-fit: contain;
+}
+
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(calc(-200px * 10)); }
+}

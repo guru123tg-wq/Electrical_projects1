@@ -1,0 +1,168 @@
+
+.lk{
+    display: inline-table;
+   
+    background-color: whitesmoke;
+    width: 310px ;
+    height: 280px ;
+    margin-left: 110px;
+    text-align: center;
+    padding-top: 150px;
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    
+
+    background-image: url("Wires\ &\ Cables.svg");
+    background-repeat: no-repeat ;
+    background-size: 50px 50px;
+    background-position: 120px 50px;
+    border-radius: 1px solid red;
+}
+
+.l,.ll{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+
+.lo1{
+    padding-left: 20px;
+    padding-right: 20px;
+   
+   
+    background-color: whitesmoke;
+    width: 310px ;
+    height: 280px ;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 150px;
+    background-image: url("Switchgears.svg");
+    background-repeat: no-repeat ;
+    background-size: 50px 50px;
+    background-position: 120px 50px;
+    border-radius: 1px solid red;
+    display: inline-table;
+}
+.lo2{
+   
+   
+    background-color: whitesmoke;
+    width: 310px ;
+    height: 280px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 150px;
+    background-image: url("Switches.svg");
+    background-repeat: no-repeat ;
+    background-size: 50px 50px;
+    background-position: 120px 50px;
+    border-radius: 1px solid red;
+    display: inline-table;
+}
+.lo3{
+   
+   
+    background-color: whitesmoke;
+    width: 310px ;
+    height: 280px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 150px;
+    background-image: url("LED\ Profile\ &\ Lights.svg");
+    background-repeat: no-repeat ;
+    background-size: 50px 50px;
+    background-position: 120px 50px;
+    border-radius: 1px solid red;
+    display: inline-table;
+}
+
+
+
+.lk1{
+    display: inline-table;
+   
+    background-color: whitesmoke;
+    width: 310px ;
+    height: 280px ;
+    margin-left: 110px;
+    text-align: center;
+    padding-top: 150px;
+    margin-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    
+
+    background-image: url("Instruments\ &\ Meters.svg");
+    background-repeat: no-repeat ;
+    background-size: 50px 50px;
+    background-position: 120px 50px;
+    border-radius: 1px solid red;
+}
+
+
+.lo11{
+    padding-left: 20px;
+    padding-right: 20px;
+   
+   
+    background-color: whitesmoke;
+    width: 310px ;
+    height: 280px ;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 150px;
+    background-image: url("Tools.svg");
+    background-repeat: no-repeat ;
+    background-size: 50px 50px;
+    background-position: 120px 50px;
+    border-radius: 1px solid red;
+    display: inline-table;
+}
+.lo21{
+   
+   
+    background-color: whitesmoke;
+    width: 310px ;
+    height: 280px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 150px;
+    background-image: url("Hardware.svg");
+    background-repeat: no-repeat ;
+    background-size: 50px 50px;
+    background-position: 120px 50px;
+    border-radius: 1px solid red;
+    display: inline-table;
+}
+.lo31{
+   
+   
+    background-color: whitesmoke;
+    width: 310px ;
+    height: 280px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 150px;
+    background-image: url("Plumbing.svg");
+    background-repeat: no-repeat ;
+    background-size: 50px 50px;
+    background-position: 120px 50px;
+    border-radius: 1px solid red;
+    display: inline-table;
+}
+
+
+
+

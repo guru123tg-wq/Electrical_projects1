@@ -1,0 +1,131 @@
+.footer-wrapper {
+  background-color: #ffffff;
+}
+
+.contact-section {
+  padding: 80px 0;
+}
+
+.section-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+/* Header Re-use */
+.section-header {
+  margin-bottom: 30px;
+}
+
+.title-group {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.accent-red-line {
+  width: 40px;
+  height: 3px;
+  background-color: #e11d48;
+}
+
+.main-title {
+  font-size: 2.25rem;
+  font-weight: 800;
+  color: #000;
+}
+
+/* Grid Layout */
+.contact-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 80px;
+}
+
+.intro-text {
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #111;
+  margin-bottom: 50px;
+}
+
+.contact-details {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.detail-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+}
+
+.detail-item .icon {
+  font-size: 1.5rem;
+}
+
+.detail-item p {
+  font-size: 1.05rem;
+  color: #333;
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* Form Styling */
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.contact-form input {
+  width: 100%;
+  padding: 16px 20px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 1rem;
+  background-color: #fff;
+}
+
+.contact-form input::placeholder {
+  color: #9ca3af;
+}
+
+.submit-btn {
+  background-color: #ff0000; /* High intensity red */
+  color: white;
+  padding: 18px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background 0.2s;
+}
+
+.submit-btn:hover {
+  background-color: #d90000;
+}
+
+/* Bottom Bar */
+.bottom-bar {
+  border-top: 1px solid #f3f4f6;
+  padding: 30px 0;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.red-text { color: #ff0000; }
+.underline { text-decoration: underline; }
+
+/* Responsive Adjustments */
+@media (max-width: 968px) {
+  .contact-content {
+    grid-template-columns: 1fr;
+    gap: 50px;
+  }
+  .main-title { font-size: 1.8rem; }
+}
