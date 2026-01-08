@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f8adb36.css",
+    "main.js": "/static/js/main.f54d7155.js",
+    "static/js/453.8bbf4e78.chunk.js": "/static/js/453.8bbf4e78.chunk.js",
+    "static/media/Hero Banner.svg": "/static/media/Hero Banner.e1c9cc6420aef2ec7b27.svg",
+    "static/media/Sri Ambajee Electricals - Logo.svg": "/static/media/Sri Ambajee Electricals - Logo.3049f3bc873a7acd5089.svg",
+    "static/media/Instruments & Meters.svg": "/static/media/Instruments & Meters.00ed0af36fb5ab9a9080.svg",
+    "static/media/Switchgears.svg": "/static/media/Switchgears.73e5a4efafe1945f7b7f.svg",
+    "static/media/Tools.svg": "/static/media/Tools.cca21516d861fdfae37d.svg",
+    "static/media/LED Profile & Lights.svg": "/static/media/LED Profile & Lights.31a97871b073897fc854.svg",
+    "static/media/Hardware.svg": "/static/media/Hardware.99019a36303fdc816933.svg",
+    "static/media/Plumbing.svg": "/static/media/Plumbing.cdfe69a730ee63001d2b.svg",
+    "static/media/Wires & Cables.svg": "/static/media/Wires & Cables.abd25138d1311b857e3a.svg",
+    "static/media/Switches.svg": "/static/media/Switches.3917c96a5e96612fdbb7.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.1f8adb36.css.map": "/static/css/main.1f8adb36.css.map",
+    "main.f54d7155.js.map": "/static/js/main.f54d7155.js.map",
+    "453.8bbf4e78.chunk.js.map": "/static/js/453.8bbf4e78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f8adb36.css",
+    "static/js/main.f54d7155.js"
+  ]
+}
