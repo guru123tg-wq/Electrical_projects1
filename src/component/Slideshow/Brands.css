@@ -41,7 +41,7 @@
 .slide-track {
   display: flex;
   width: calc(200px * 20); /* 200px per logo * (10 logos * 2) */
-  animation: scroll 3s linear infinite;
+  animation: scroll 5s linear infinite;
 }
 
 .slide-item {
